@@ -1,4 +1,5 @@
-Hello, World!
-Hello, Git!
+Hello, World, Git!
 
-Hello, GitHub! I come in.
+Hello, GitHub!
+
+Hello, git rebase!
