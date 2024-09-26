@@ -3,3 +3,8 @@ Hello, World, Git!
 Hello, GitHub!
 
 Hello, git rebase!
+
+Hello, git cherry-pik!
+Hello, git squash? or rebase -i?
+
+WTF!!!
